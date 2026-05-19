@@ -12,7 +12,6 @@
 name: Zitzang
 focus: Building cool stuff
 always_learning: true
-open_to_collaborate: true
 ```
 
 ---
@@ -21,8 +20,8 @@ open_to_collaborate: true
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zitzang&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zitzang&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=minnguyt19&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnguyt19&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -31,7 +30,7 @@ open_to_collaborate: true
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zitzang&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=minnguyt19&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -40,7 +39,7 @@ open_to_collaborate: true
 ## 👁️ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zitzang&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=minnguyt19&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
