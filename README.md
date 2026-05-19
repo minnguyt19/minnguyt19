@@ -31,10 +31,3 @@ always_learning: true
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=minnguyt19&style=for-the-badge&color=00ffaa&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <i>Thanks for stopping by! Feel free to explore my repos 🚀</i>
-</p>
