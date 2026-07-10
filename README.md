@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Zitzang
+name: MinnaBui
 focus: Building cool stuff
 always_learning: true
 ```
